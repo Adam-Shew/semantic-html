@@ -1,3 +1,6 @@
+/* CSS: Cascsading Style Sheets 
+
+*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -21,7 +24,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: orange;
 }
 
 .header div {
